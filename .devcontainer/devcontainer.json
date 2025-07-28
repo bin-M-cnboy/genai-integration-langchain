@@ -7,7 +7,7 @@
 			"openFiles": [
 				".devcontainer/SETUP.md",
 				".env.example",
-				"genai-fundamentals/test_environment.py"
+				"genai-integration-langchain/test_environment.py"
 				]
 		},
 		"vscode": {
