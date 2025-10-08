@@ -7,7 +7,7 @@ from langchain_core.prompts import PromptTemplate
 from typing_extensions import List, TypedDict
 
 # Initialize the LLM
-model = init_chat_model("gpt-4o", model_provider="openai")
+model = init_chat_model("deepseek-chat", model_provider="deepseek")
 
 # Create a prompt
 template = """Use the following pieces of context to answer the question at the end.
